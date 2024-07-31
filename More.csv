@@ -1,0 +1,14 @@
+Score,Source,Rating
+score_9,source_pony,rating_safe
+score_8_up,source_furry,SFW
+score_7_up,source_anime,is:safe
+score_6_up,source_cartoon,NSFW
+score_5_up,anime,rating_questionable
+score_4_up,manga,rating_explicit
+masterpiece,sketch,
+best quality,draw,
+high quality,illustration,
+medium quality,realistic,
+normal quality,photo,
+low quality,detailed,
+worst quality,,
