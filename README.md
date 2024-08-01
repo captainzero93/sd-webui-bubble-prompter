@@ -13,7 +13,7 @@ This extension adds a Bubble Prompter functionality to the AUTOMATIC1111 Stable 
 
 1. Clone this repository into the `extensions` folder of your Stable Diffusion WebUI installation:
 
-git clone https://github.com/captainzero93/sd-webui-bubble-prompter.git
+git clone https://github.com/captainzero93/sd-webui-bubble-prompter.git bubble-prompter
 
 2. Restart the WebUI.
 
