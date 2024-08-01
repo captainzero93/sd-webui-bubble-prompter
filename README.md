@@ -25,7 +25,7 @@ git clone https://github.com/captainzero93/sd-webui-bubble-prompter.git bubble-p
 4. Utilize the buttons to manipulate your prompt text.
 5. Click "Process" to finalize your prompt.
 
-## todo; Cleanup, remove a few files that might not be needed, tweak the GUI
+## todo; Cleanup code, make the GUI nice
 
 ## Files
 
