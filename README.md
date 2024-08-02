@@ -37,6 +37,7 @@ git clone https://github.com/captainzero93/sd-webui-bubble-prompter.git bubble-p
 
 ## Contributing
 
+The UI is extremely simplistic in this implimentation, I have left the basic framework to restore the GUI if some one would like to do it.
 Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## Acknowledgements: 
