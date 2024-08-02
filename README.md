@@ -1,6 +1,6 @@
 # BETA - Bubble Prompter Extension for Stable Diffusion WebUI
 
-This extension adds simple Bubble Prompter ( byy pols on HF ) functionality to the AUTOMATIC1111 Stable Diffusion web UI.
+This extension adds simple Bubble Prompter ( by pols on HF ) functionality to the AUTOMATIC1111 Stable Diffusion web UI.
 
 ## Features
 
